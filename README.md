@@ -44,7 +44,4 @@ O modelo final (**Random Forest**) apresentou um desempenho superior, equilibran
 ### Principais Variáveis (Insights)
 O modelo identificou que as variáveis comportamentais **V10, V14 e V12** são os maiores indicadores de fraude, superando o próprio valor da transação (`Amount`).
 
-## 🚀 Como Executar o Projeto
-1. Clone este repositório:
-```bash
-git clone [https://github.com/SEU-USUARIO/deteccao-fraude-cartao-credito.git](https://github.com/SEU-USUARIO/deteccao-fraude-cartao-credito.git)
+
